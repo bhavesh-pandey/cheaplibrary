@@ -1,0 +1,21 @@
+{
+  "name": "cheaplibrary",
+  "homepage": "https://github.com/bhavesh-pandey/cheaplibrary",
+  "authors": [
+    "Bhavesh Pandey <pandey2992@gmail.com>"
+  ],
+  "description": "Predefined CSS classes",
+  "main": "cheaplibrary.css",
+  "keywords": [
+    "CSS",
+    "classes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
