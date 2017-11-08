@@ -13,6 +13,7 @@
 }
 
 
+
 /* Font Weights */
 
 .font-weight-100 {
@@ -461,6 +462,10 @@
     padding-left: 50px;
 }
 
+.padding-left-100 {
+    padding-left: 100px;
+}
+
 .padding-top-4 {
     padding-top: 4px;
 }
@@ -487,6 +492,10 @@
 
 .padding-right-20 {
     padding-right: 20px;
+}
+
+.padding-right-100 {
+    padding-right: 100px;
 }
 
 .padding-bottom-0 {
@@ -582,6 +591,10 @@
     width: 600px;
 }
 
+.width-33p {
+    width: 33.3%;
+}
+
 .width-50p {
     width: 50%;
 }
@@ -641,8 +654,24 @@
     height: 250px;
 }
 
+.height-400 {
+    height: 400px;
+}
+
+.height-450 {
+    height: 450px;
+}
+
 .height-530 {
     height: 530px;
+}
+
+.height-540 {
+    height: 540px;
+}
+
+.height-600 {
+    height: 600px;
 }
 
 .height-100p {
@@ -738,6 +767,16 @@
 
 .z-index-2 {
     z-index: 2;
+}
+
+/* Hover */
+
+.color-white-hover:hover {
+    color: white;
+}
+
+.color-red-700-hover:hover {
+    color: #D32F2F;
 }
 
 /* Cursor*/
@@ -2470,6 +2509,10 @@
     padding-left: 50px !important;
 }
 
+.padding-left-100-imp {
+    padding-left: 100px !important;
+}
+
 .padding-top-4-imp {
     padding-top: 4px !important;
 }
@@ -2496,6 +2539,10 @@
 
 .padding-right-20-imp {
     padding-right: 20px !important;
+}
+
+.padding-right-100-imp {
+    padding-right: 100px !important;
 }
 
 .padding-bottom-0-imp {
@@ -2591,6 +2638,10 @@
     width: 600px !important;
 }
 
+.width-33p-imp {
+    width: 33.3% !important;
+}
+
 .width-50p-imp {
     width: 50% !important;
 }
@@ -2650,8 +2701,24 @@
     height: 250px !important;
 }
 
+.height-400-imp {
+    height: 400px !important;
+}
+
+.height-450-imp {
+    height: 450px !important;
+}
+
 .height-530-imp {
     height: 530px !important;
+}
+
+.height-540-imp {
+    height: 540px !important;
+}
+
+.height-600-imp {
+    height: 600px !important;
 }
 
 .height-100p-imp {
@@ -2747,6 +2814,16 @@
 
 .z-index-2-imp {
     z-index: 2 !important;
+}
+
+/* Hover */
+
+.color-white-hover-imp:hover {
+    color: white !important;
+}
+
+.color-red-700-hover-imp:hover {
+    color: #D32F2F !important;
 }
 
 /* Cursor*/
